@@ -45,8 +45,11 @@ h1,h2,h3,h4,h5,h6 {
     color: black;
     opacity: 1;
     background-color: white;
-    border-radius: .5em;
+    padding-left: 2em;
+    text-align: left;
   }
+  .w3-padding-large {
+    padding: 0 !important;
 }
 
 /* W3.CSS 4.09 January 2018 by Jan Egil and Borge Refsnes */
