@@ -40,6 +40,15 @@ h1,h2,h3,h4,h5,h6 {
   padding-top: 10em;
 }
 
+@media (max-width:750px){
+  #imgText {
+    color: black;
+    opacity: 1;
+    background-color: white;
+    border-radius: .5em;
+  }
+}
+
 /* W3.CSS 4.09 January 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
